@@ -1,0 +1,1 @@
+Evaluated, Cleaned and Transformed adult income dataset which explores the influence of factors such as education, age,  gender, occupation etc. Trained using RandomForestClassifier using Sklearn to predict whether a person would earn more than 50k. Improved accuracy of model using hyperparameter tuning. 
